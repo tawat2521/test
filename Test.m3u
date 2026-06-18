@@ -1,0 +1,45 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/vEpjLnj.png",J Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/g1GLVH2.png",J Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/xdI361E.png",J Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/fBcyZNL.png",J Sports 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
+
+#EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5k4_wlWqiPoL9K8f0d-YE8b6wTyv5_RPMvA&s",NHK World Japan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
