@@ -1,12 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="3HD.th@SD",Hub-01
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6E:45&stream=620786&extension=ts
-#EXTINF:-1 tvg-id="3HD.th@SD",Hub-02
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6E:45&stream=620785&extension=ts
-#EXTINF:-1 tvg-id="3HD.th@SD",Hub-03
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6E:45&stream=620784&extension=ts
-#EXTINF:-1 tvg-id="3HD.th@SD",Hub-04
-http://204.52.191.254:80/play/live.php?mac=00:1A:79:78:6E:45&stream=620783&extension=ts
+
 #EXTINF:-1 tvg-id="3HD.th@SD",3HD
 https://live-us1.thaimomo.com/live-as/ch3hd-3/playlist.m3u8
 #EXTINF:-1 tvg-id="13SiamThai.th@SD",13 Siam Thai (1080p)
